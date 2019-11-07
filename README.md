@@ -10,7 +10,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## TASK
 
------Weather App------
+-----Weather App------<br />
 Display a 5-day weather forecast, where each day shows the high and low temperatures, and an image for sunny/rainy/cloudy/snowy. Use fake, hard-coded data.
 You can use any vector icons or any images you prefer.
 You can place "days" cards as horizontal or vertical list
